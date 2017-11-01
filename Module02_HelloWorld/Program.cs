@@ -1,20 +1,23 @@
-﻿namespace Module02_HelloWorld
+﻿
+namespace Module02_HelloWorld
 {
     class Program
     {
+       
         static void Main(string[] args)
         {
 
+            DebugDemo();
             
-
             if (System.Diagnostics.Debugger.IsAttached)
             {
                 System.Console.Write("Press any key to continue . . . ");
                 System.Console.ReadKey();
             }
         }
-
-        static void DebugDemo() {
+        
+        static void DebugDemo()
+        {
 
             int i = 10;
             int u = 20;
@@ -51,3 +54,5 @@
         }
     }
 }
+
+
