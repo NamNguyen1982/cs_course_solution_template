@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            System.Console.WriteLine("Hello World hej dav");
+            System.Console.WriteLine("Hello World" + " - " + "Ny linie") ;
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
