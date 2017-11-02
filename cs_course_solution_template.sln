@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment04ReferenceTypes"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment04DiffClassAndStruct", "Assignment04DiffClassAndStruct\Assignment04DiffClassAndStruct.csproj", "{1F0D0AFD-30DA-4E0C-8FF0-97462BD5BDF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment04PlayingWithMyString", "Assignment04PlayingWithMyString\Assignment04PlayingWithMyString.csproj", "{26532BEF-54B7-47B5-A41E-158739585710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{1F0D0AFD-30DA-4E0C-8FF0-97462BD5BDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0D0AFD-30DA-4E0C-8FF0-97462BD5BDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0D0AFD-30DA-4E0C-8FF0-97462BD5BDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26532BEF-54B7-47B5-A41E-158739585710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26532BEF-54B7-47B5-A41E-158739585710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26532BEF-54B7-47B5-A41E-158739585710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26532BEF-54B7-47B5-A41E-158739585710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,6 +150,7 @@ Global
 		{3C907BE8-E6F7-41AC-88B8-F467944815B9} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{1FAEDEBA-F48E-47A6-9BF5-D8279F355EF5} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{1F0D0AFD-30DA-4E0C-8FF0-97462BD5BDF6} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{26532BEF-54B7-47B5-A41E-158739585710} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5354BDA-3E12-4F48-8A32-DAFA5BEC4AA4}
