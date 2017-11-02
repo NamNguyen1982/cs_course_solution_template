@@ -28,6 +28,23 @@ namespace Assignment04ReferenceTypes
             månedsløn[10] = 1100;
             månedsløn[11] = 1200;
 
+
+            var sum = månedsløn.Average();
+
+            Console.WriteLine("sum: "+sum);
+
+
+            foreach (int i in månedsløn)
+            {
+
+                Console.WriteLine("number {0}",i);
+
+            
+            }
+
+
+
+
             for (int i = 0; i < månedsløn.Length; i++)
             {
 
@@ -87,10 +104,8 @@ namespace Assignment04ReferenceTypes
                 System.Console.ReadKey();
             }
         }
-        class Dav
-        {
-        public int tal;
+ 
 
-}
+
     }
 }
