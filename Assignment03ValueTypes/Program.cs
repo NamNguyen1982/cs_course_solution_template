@@ -74,26 +74,5 @@ namespace Assignment03ValueTypes
 
 
     }
-    enum FilTyper
-    {
-        csv = 1,
-
-        pdf = 2,
-
-        txt = 3,
-                       
-    }
-
-    struct Person
-    {
-        public int id;
-        public string ForNavn;
-        public string EfterNavn;
-        public int Alder;
-        public int Postnummer;
-
-
-
-    }
 
 }
