@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment04_10Tabel", "Ass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment05SmaaMetoder", "Assignment05SmaaMetoder\Assignment05SmaaMetoder.csproj", "{82CD108A-C78B-4C56-9454-569AB7E3B000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment05BeregnArray", "Assignment05BeregnArray\Assignment05BeregnArray.csproj", "{B8DD47FD-6527-4AAC-B258-C6D4504E9A23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,10 @@ Global
 		{82CD108A-C78B-4C56-9454-569AB7E3B000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82CD108A-C78B-4C56-9454-569AB7E3B000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82CD108A-C78B-4C56-9454-569AB7E3B000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DD47FD-6527-4AAC-B258-C6D4504E9A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DD47FD-6527-4AAC-B258-C6D4504E9A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DD47FD-6527-4AAC-B258-C6D4504E9A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DD47FD-6527-4AAC-B258-C6D4504E9A23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +171,7 @@ Global
 		{26532BEF-54B7-47B5-A41E-158739585710} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{EE5809D8-3277-4F01-87CD-6B6BD0A1CCB7} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{82CD108A-C78B-4C56-9454-569AB7E3B000} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{B8DD47FD-6527-4AAC-B258-C6D4504E9A23} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5354BDA-3E12-4F48-8A32-DAFA5BEC4AA4}
