@@ -6,6 +6,7 @@ Forskellige runtimes (.NET Framework, .NET Core, Mono/Xamarin)
 C# -> IL kode -> binær eksekverbar kode
 Anders Hejlsberg
 VS 2017
+
 Module 2 C#
 scope {}
 er case sensitive
@@ -18,6 +19,7 @@ Use the debugger (breakpoint = F9)
 VS = solution er paraply for projekter
 Brug evt StyleCop for at sikre korrekt navngivning
 Brug evt ILSpy eller dotPeek til at se og konvertere IL kode
+
 Module 3 Value types
 value (stack) og reference typer (heap) (se billede fra WhiteBoard)
 brug int (heltal), decimal (kommatal), DateTime (dato/tid), bool (true/false)
@@ -27,6 +29,7 @@ typekonvertering (implicit / explicit) - brug System.Convert ved explicit (eller
 enumerations erstatter en tabel over værdier med logiske navne (farver, ugedage mv)
 struct giver mulighed for sammensatte datatyper (på stack = værdier)
 brug af new på struct's tildeler default værdier til felter
+
 Module 4 Reference types
 Se eksempel Person... Forskel på struct og class (stack/heap, værdier/referencer)
 Arrays defineres med [] og er ref. baseret
@@ -38,6 +41,7 @@ betingelser = if, switch
 løkker = for, foreach, do, while
 break hopper ud af struktur
 continue hopper til ny iteration
+
 Module 5 Methods
 Metode signatur = retur type samt parametre
 Værdi baserede variabler som argumenter bliver ikke tilrettet (stack frame)
