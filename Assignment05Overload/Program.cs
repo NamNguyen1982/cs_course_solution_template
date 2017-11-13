@@ -13,8 +13,12 @@ namespace Assignment05Overload
             int res = Beregn(2, 2);
             int res2 = Beregn(2, 2,2);
             int res3 = Beregn(2, 2,2,2);
+            int res4 = Beregn(2,4,5,6);
 
-            Console.WriteLine("{0}\n{1}\n{2}",res,res2,res3);
+            //Console.WriteLine("{0}\n{1}\n{2}",res,res2,res3);
+            //Console.ReadKey();
+
+            Console.WriteLine(res4);
             Console.ReadKey();
         }
 
