@@ -17,14 +17,21 @@ namespace PersonKlasse
             set { name = value; }
         }
 
-        private int alder;
+        private int age;
 
-        public int Alder
+        public int Age
         {
-            get { return alder; }
-            set { alder = value; }
+            get { return age; }
+            set { age = value; }
         }
 
+        private string country;
+
+        public string Country
+        {
+            get { return country; }
+            set { country = value; }
+        }
 
 
 
