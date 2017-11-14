@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment07Egenskaber", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment07EgenskaberTrekant", "Assignment07EgenskaberTrekant\Assignment07EgenskaberTrekant.csproj", "{10AF8A76-D07B-4502-8722-A3D87DD89789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonKlasse", "PersonKlasse\PersonKlasse.csproj", "{B8092AA2-4915-47C1-B0BD-FD65A782B41C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{10AF8A76-D07B-4502-8722-A3D87DD89789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10AF8A76-D07B-4502-8722-A3D87DD89789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10AF8A76-D07B-4502-8722-A3D87DD89789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8092AA2-4915-47C1-B0BD-FD65A782B41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8092AA2-4915-47C1-B0BD-FD65A782B41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8092AA2-4915-47C1-B0BD-FD65A782B41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8092AA2-4915-47C1-B0BD-FD65A782B41C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -214,6 +220,7 @@ Global
 		{FD8A0266-F70D-41E4-9FF2-7A1DC7DCE54B} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{C2D9D347-0E47-4D2B-BA58-FAB95120D6C6} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{10AF8A76-D07B-4502-8722-A3D87DD89789} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{B8092AA2-4915-47C1-B0BD-FD65A782B41C} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5354BDA-3E12-4F48-8A32-DAFA5BEC4AA4}
