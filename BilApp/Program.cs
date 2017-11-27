@@ -10,7 +10,7 @@ namespace BilApp
     {
         static void Main(string[] args)
         {
-
+           
             Bil b = new Bil();
             b.BilId = 1;
             b.Model = "Ford";
