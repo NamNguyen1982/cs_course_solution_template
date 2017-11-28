@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment12Event", "Assign
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment12FileWatch", "Assignment12FileWatch\Assignment12FileWatch.csproj", "{16329121-AC54-4B88-A25D-7F05C57EC20B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment14Linq", "Assignment14Linq\Assignment14Linq.csproj", "{100E704E-3295-41E6-8ECA-6D5F381E13B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -277,6 +279,10 @@ Global
 		{16329121-AC54-4B88-A25D-7F05C57EC20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16329121-AC54-4B88-A25D-7F05C57EC20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16329121-AC54-4B88-A25D-7F05C57EC20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100E704E-3295-41E6-8ECA-6D5F381E13B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100E704E-3295-41E6-8ECA-6D5F381E13B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100E704E-3295-41E6-8ECA-6D5F381E13B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100E704E-3295-41E6-8ECA-6D5F381E13B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -326,6 +332,7 @@ Global
 		{BD9C3E49-64B7-4EAE-869B-51A251E79AC3} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{65C0453A-6B47-4E84-B69C-45F0BB91918B} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 		{16329121-AC54-4B88-A25D-7F05C57EC20B} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
+		{100E704E-3295-41E6-8ECA-6D5F381E13B8} = {5E1B2542-C3EE-4515-8C83-C8E805B50E0F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5354BDA-3E12-4F48-8A32-DAFA5BEC4AA4}
